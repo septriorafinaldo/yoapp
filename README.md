@@ -1,5 +1,6 @@
 # Pemrograman Bergerak
 a.k.a AppMob
+Dosen: Nazruddin Safaat H
 
 Nama: M. Septrio Rafinaldo
 
